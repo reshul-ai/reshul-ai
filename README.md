@@ -1,11 +1,10 @@
-### Ola amigos  👋
+### The Reshul Wate  👋
 
 <!--
 **reshul-ai/reshul-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
--Fuck Bitches ..... GET MONEYYY 
 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
